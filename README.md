@@ -1,1 +1,0 @@
-# Telanganas-Economic-Growth
