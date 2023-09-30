@@ -9,8 +9,10 @@
 
  🔎This SQL solutions done in `Google BigQuery`
 
- - TEG.md has all the solution
+ - TEG.md has all the solution 
  - A video presentation is uploaded
+ - A completed PPT and datasets are uploaded
+ - The Tableau Dashboard link is here
 
  🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/).
 
