@@ -9,9 +9,9 @@
 
  🔎This SQL solutions done in `Google BigQuery`
 
- - TEG.md has all the solution 
- - A video presentation is uploaded
- - A completed PPT and datasets are uploaded
+ - click here to see [`All the solution`](https://github.com/KasiMuthuveerappan/Telanganas-Economic-Growth/blob/main/TEG.md)
+ - A video presentation is uploaded [`here`](https://drive.google.com/drive/folders/1yFCZxmoTTi8Yk8YtjXXFqRhfE5NdW7Xo?usp=sharing)
+ - Datasets and completed [`PPT`](https://github.com/KasiMuthuveerappan/Telanganas-Economic-Growth/blob/main/Teg%20-%20wm.pdf) are uploaded
  - The Tableau Dashboard link is here
 
  🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/).
