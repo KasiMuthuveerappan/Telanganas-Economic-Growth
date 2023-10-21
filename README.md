@@ -9,10 +9,15 @@
 
  🔎This SQL solutions done in `Google BigQuery`
 
+
  - click here to see [`All the solution`](https://github.com/KasiMuthuveerappan/Telanganas-Economic-Growth/blob/main/TEG.md)
  - A video presentation is uploaded [`here`](https://drive.google.com/drive/folders/1yFCZxmoTTi8Yk8YtjXXFqRhfE5NdW7Xo?usp=sharing)
  - Datasets and completed [`PPT`](https://github.com/KasiMuthuveerappan/Telanganas-Economic-Growth/blob/main/Teg%20-%20wm.pdf) are uploaded
- - The Tableau Dashboard link is here. Click on this button to view individual interactive Dashboard and Story 👉🏼 [![Jupyter Notebook](https://img.shields.io/badge/Telangana'sEG-%23FA0F00.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Telanganaseconomicgrowth-EDA-CaseStudy/Intro?:language=en-US&:display_count=n&:origin=viz_share_link)
+ - The Tableau Dashboard link is here. Click on this button to view individual interactive Dashboard
+
+   and Story 👉🏼 [![Jupyter Notebook](https://img.shields.io/badge/Telangana'sEG-%23FA0F00.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Telanganaseconomicgrowth-EDA-CaseStudy/Intro?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 
  🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/).
